@@ -1,0 +1,202 @@
+[
+  {
+    "hazy_file": "01_outdoor_hazy.jpg",
+    "gt_file": "01_outdoor_GT.jpg",
+    "prompt": "请移除这张户外照片中的雾气"
+  },
+  {
+    "hazy_file": "02_outdoor_hazy.jpg",
+    "gt_file": "02_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾霾的照片"
+  },
+  {
+    "hazy_file": "03_outdoor_hazy.jpg",
+    "gt_file": "03_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的薄雾"
+  },
+  {
+    "hazy_file": "04_outdoor_hazy.jpg",
+    "gt_file": "04_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "05_outdoor_hazy.jpg",
+    "gt_file": "05_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "06_outdoor_hazy.jpg",
+    "gt_file": "06_outdoor_GT.jpg",
+    "prompt": "请去除这张户外照片中的雾霾"
+  },
+  {
+    "hazy_file": "07_outdoor_hazy.jpg",
+    "gt_file": "07_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾气的照片"
+  },
+  {
+    "hazy_file": "08_outdoor_hazy.jpg",
+    "gt_file": "08_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的雾霾"
+  },
+  {
+    "hazy_file": "09_outdoor_hazy.jpg",
+    "gt_file": "09_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "10_outdoor_hazy.jpg",
+    "gt_file": "10_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "11_outdoor_hazy.jpg",
+    "gt_file": "11_outdoor_GT.jpg",
+    "prompt": "请移除这张户外照片中的雾气"
+  },
+  {
+    "hazy_file": "12_outdoor_hazy.jpg",
+    "gt_file": "12_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾霾的照片"
+  },
+  {
+    "hazy_file": "13_outdoor_hazy.jpg",
+    "gt_file": "13_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的薄雾"
+  },
+  {
+    "hazy_file": "14_outdoor_hazy.jpg",
+    "gt_file": "14_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "15_outdoor_hazy.jpg",
+    "gt_file": "15_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "16_outdoor_hazy.jpg",
+    "gt_file": "16_outdoor_GT.jpg",
+    "prompt": "请去除这张户外照片中的雾霾"
+  },
+  {
+    "hazy_file": "17_outdoor_hazy.jpg",
+    "gt_file": "17_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾气的照片"
+  },
+  {
+    "hazy_file": "18_outdoor_hazy.jpg",
+    "gt_file": "18_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的雾霾"
+  },
+  {
+    "hazy_file": "19_outdoor_hazy.jpg",
+    "gt_file": "19_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "20_outdoor_hazy.jpg",
+    "gt_file": "20_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "21_outdoor_hazy.jpg",
+    "gt_file": "21_outdoor_GT.jpg",
+    "prompt": "请移除这张户外照片中的雾气"
+  },
+  {
+    "hazy_file": "22_outdoor_hazy.jpg",
+    "gt_file": "22_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾霾的照片"
+  },
+  {
+    "hazy_file": "23_outdoor_hazy.jpg",
+    "gt_file": "23_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的薄雾"
+  },
+  {
+    "hazy_file": "24_outdoor_hazy.jpg",
+    "gt_file": "24_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "25_outdoor_hazy.jpg",
+    "gt_file": "25_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "26_outdoor_hazy.jpg",
+    "gt_file": "26_outdoor_GT.jpg",
+    "prompt": "请去除这张户外照片中的雾霾"
+  },
+  {
+    "hazy_file": "27_outdoor_hazy.jpg",
+    "gt_file": "27_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾气的照片"
+  },
+  {
+    "hazy_file": "28_outdoor_hazy.jpg",
+    "gt_file": "28_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的雾霾"
+  },
+  {
+    "hazy_file": "29_outdoor_hazy.jpg",
+    "gt_file": "29_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "30_outdoor_hazy.jpg",
+    "gt_file": "30_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "31_outdoor_hazy.jpg",
+    "gt_file": "31_outdoor_GT.jpg",
+    "prompt": "请移除这张户外照片中的雾气"
+  },
+  {
+    "hazy_file": "32_outdoor_hazy.jpg",
+    "gt_file": "32_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾霾的照片"
+  },
+  {
+    "hazy_file": "33_outdoor_hazy.jpg",
+    "gt_file": "33_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的薄雾"
+  },
+  {
+    "hazy_file": "34_outdoor_hazy.jpg",
+    "gt_file": "34_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "35_outdoor_hazy.jpg",
+    "gt_file": "35_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  },
+  {
+    "hazy_file": "36_outdoor_hazy.jpg",
+    "gt_file": "36_outdoor_GT.jpg",
+    "prompt": "请去除这张户外照片中的雾霾"
+  },
+  {
+    "hazy_file": "37_outdoor_hazy.jpg",
+    "gt_file": "37_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾气的照片"
+  },
+  {
+    "hazy_file": "38_outdoor_hazy.jpg",
+    "gt_file": "38_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的雾霾"
+  },
+  {
+    "hazy_file": "39_outdoor_hazy.jpg",
+    "gt_file": "39_outdoor_GT.jpg",
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "40_outdoor_hazy.jpg",
+    "gt_file": "40_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  }
+]

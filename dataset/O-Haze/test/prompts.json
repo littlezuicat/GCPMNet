@@ -1,0 +1,28 @@
+[
+  {
+    "hazy_file": "41_outdoor_hazy.jpg",
+    "gt_file": "41_outdoor_GT.jpg",
+    "prompt": "请移除这张户外照片中的雾气"
+  },
+  {
+    "hazy_file": "42_outdoor_hazy.jpg",
+    "gt_file": "42_outdoor_GT.jpg",
+    "prompt": "一张在户外拍摄的、带有雾霾的照片"
+  },
+  {
+    "hazy_file": "43_outdoor_hazy.jpg",
+    "gt_file": "43_outdoor_GT.jpg",
+    "prompt": "去除这张图片中的薄雾"
+  },
+  {
+    "hazy_file": "44_outdoor_hazy.jpg",
+    "gt_file": "44_outdoor_GT.jpg",
+
+    "prompt": "一张有雾的户外场景照片"
+  },
+  {
+    "hazy_file": "45_outdoor_hazy.jpg",
+    "gt_file": "45_outdoor_GT.jpg",
+    "prompt": "将这张有雾的图像处理为清晰的图像"
+  }
+]
