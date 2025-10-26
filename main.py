@@ -6,7 +6,7 @@ Affiliation: Beijing Union University, Beijing, China
 import torch, os, sys, torchvision, argparse
 import torchvision.transforms as tfs
 from metrics import psnr, ssim
-from models.NBDehazeNet import NBDehazeNet
+from models.GCPMNet import GCPMNet
 import time, math
 import numpy as np
 from torch.backends import cudnn
@@ -31,7 +31,7 @@ print('log_dir :', log_dir)
 print('model_name:', opt.model_name)
 
 models_ = {
-    'NBDehazeNet': NBDehazeNet()
+    'GCPMNet': GCPMNet()
 }
 
 

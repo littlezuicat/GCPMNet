@@ -56,9 +56,9 @@ class FAM(nn.Module):
     def forward(self, x1, x2):
         return self.merge(torch.cat([x1, x2], dim=1))
 
-class NBDehazeNet(nn.Module):
+class GCPMNet(nn.Module):
     def __init__(self, version ='small'):
-        super(NBDehazeNet, self).__init__()
+        super(GCPMNet, self).__init__()
         
         if version == 'small':
             num_res = 4
@@ -150,4 +150,4 @@ class NBDehazeNet(nn.Module):
 
 
 def build_net(version):
-    return NBDehazeNet(version)
+    return GCPMNet(version)
